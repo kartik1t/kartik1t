@@ -8,12 +8,9 @@
 
 - 📫 How to reach me **ki.kartikjain@gmail.com**
 
-- ⚡ Fun fact **I am funny 😅**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prashant pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/prshantpandey.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prshantpandey.31" height="30" width="40" /></a>
+<a href="https://instagram.com/kartik_1t_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik jain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
